@@ -1,0 +1,3 @@
+tipo_mira: tipo_3
+tamaño_mira: grande
+color_mira: blanco
